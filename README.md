@@ -20,7 +20,7 @@ serão realizados todos os processos, desde a coleta de dados até uma tentativa
 # Funções do projeto
 
 ## Extração dos dados.
-Os dados são extraídos do site `https://www.transfermarkt.com.br/`. 
+Os dados são extraídos do site <https://www.transfermarkt.com.br/>.
 > Para a extração dos dados é preciso o campeonato desejado, neste processo serão estraídos nome dos times, emblemas e o plantel de cada 
 time pertencente ao campeonato selecionado.
 
